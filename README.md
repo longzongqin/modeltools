@@ -1,6 +1,13 @@
 # Modeltools
 #### GO语言连接Mysql生成对应的model，包括对应字段类型、注释等。生成基础的结构体，不局限于某一个ORM。
  
+  **源码码地址---------**
+  github：[https://github.com/longzongqin/modeltools](https://github.com/longzongqin/modeltools)
+  
+  码云：[https://gitee.com/longzongqin/modeltools](https://gitee.com/longzongqin/modeltools)
+ 
+ 
+
  **生成示例---------**
 
 ```go 
