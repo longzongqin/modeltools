@@ -101,13 +101,13 @@ func getFiledType(field Field)  string{
 	case "mediumint":
 		return "int"
 	case "bit":
-		return "int8"
+		return "int"
 	case "year":
-		return "int8"
+		return "int"
 	case "smallint":
-		return "int8"
+		return "int"
 	case "tinyint":
-		return "int8"
+		return "int"
 	case "bigint":
 		return "int64"
 	case "decimal":
